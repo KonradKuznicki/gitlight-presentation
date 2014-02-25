@@ -6,7 +6,7 @@ Czemu LightTable?
 ### 1. Czemu w ogule nowy edytor
 
 - live evaluation dla wielu języków
-- łatwo rozszeżalny
+- łatwo rozszerzalny
 - oparty o webkit
 
 
