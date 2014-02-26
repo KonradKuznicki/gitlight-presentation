@@ -6,7 +6,7 @@ Why LightTable?
 ### 1. Why at all new editor?
 
 - live evaluation fr many languages
-- easliy extensible
+- easily extensible
 - based on webkit
 
 
