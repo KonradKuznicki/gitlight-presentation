@@ -1,21 +1,21 @@
-Czemu ClojureScript?
+Why ClojureScript?
 ====================
 
 ### 1. Lisp
 
-- makra
+- macros
 
-### 2. Funkcyjny
+### 2. Functional
 
-    (def czesc! (partial js/alert "Cześć!"))
+    (def hi! (partial js/alert "Hi!"))
 
-### 3. Immutability (niezmienność kolekcji)
+### 3. Immutability
 
 - React (Om)
 
-### 4. Architektura
+### 4. Architecture
 
 - Namespeces
-- Integracja z Google Clojure Library
+- Integration with Google Clojure Library
 - Google Closure Compiler
 
