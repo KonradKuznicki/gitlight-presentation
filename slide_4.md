@@ -1,2 +1,2 @@
-Jak pracujemy?
+How we work on gitlight?
 ==============
