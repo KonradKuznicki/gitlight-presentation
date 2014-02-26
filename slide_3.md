@@ -1,13 +1,13 @@
-Czemu Plugin?
+Why Plugin?
 =============
 
 
-### 1. stworzyć sobie narzędzie pracy
+### 1. In order to create a work tool for myself
 
-### 2. Pokazać co potrafimy
+### 2. Show some sklills
 
-### 3. Możemy poznać nową technologię
+### 3. Get know new technology
 
-### 4. Zrobić coś dla innych
+### 4. Do something for others
 
-### 5. Poznać nowych ludzi
+### 5. Meet new people
