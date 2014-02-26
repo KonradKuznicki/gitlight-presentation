@@ -5,11 +5,11 @@ Plugin for LightTable
 
 
 
-1. Why LightTable
-2. Why ClojureScript
-3. Why Plugin
-4. How we work on gitlight
-5. How it goes so far
+1. Why LightTable?
+2. Why ClojureScript?
+3. Why Plugin?
+4. How we work on gitlight?
+5. How it goes so far?
 
 
 #### We
