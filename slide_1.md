@@ -5,7 +5,7 @@ Why LightTable?
 
 ### 1. Why at all new editor?
 
-- live evaluation fr many languages
+- live evaluation for many languages
 - easily extensible
 - based on webkit
 
@@ -14,7 +14,7 @@ Why LightTable?
 
 ### 2. Cmpadred to
 
-- IDE (Visual Studio, Eclipse, inne)
+- IDE (Visual Studio, Eclipse, other)
 - Vim itp.
 - Emacs
 - Brackets
